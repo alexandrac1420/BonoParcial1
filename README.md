@@ -51,8 +51,13 @@
 1. Accede a la interfaz web en tu navegador a través de [http://localhost:35000/](http://localhost:35000/).
 2. Ingresa una operación en el formato `comando(param1,param2)`, como `pow(2,3)` o `random()`.
 3. Presiona el botón "Calcular" y verás el resultado en pantalla.
-![image](https://github.com/user-attachments/assets/d6e35e2b-c31d-4255-814e-8679741e6ce2)
-![image](https://github.com/user-attachments/assets/10118a98-0f55-40fd-ae6e-11282ff6f9d1)
-![image](https://github.com/user-attachments/assets/b5721e1b-79dd-44b9-bf02-d55463114354)
+![image](https://github.com/user-attachments/assets/03a2baed-2c3b-4ab6-a2d0-275c31894f9d)
+![image](https://github.com/user-attachments/assets/597a57a0-cd30-48e9-90ea-61d4ba91ef5b)
+![image](https://github.com/user-attachments/assets/339bfad4-4733-4032-a059-6ef653fe9dae)
+![image](https://github.com/user-attachments/assets/bd9330b7-9b89-4dec-a7b5-86a58272b710)
+
+
+
+
 
 
