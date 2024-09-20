@@ -88,6 +88,7 @@ Este proyecto implementa una calculadora reflexiva que utiliza la clase `Math` d
 ## Diagrama de Clases
 
 Este es el diagrama de clases que muestra las principales clases del proyecto y sus interacciones:
+
 ![image](https://github.com/alexandrac1420/BonoParcial1/blob/master/Pictures/diagramaClases.png)
 
 ### 1. **CalcReflexBEServer**
@@ -112,6 +113,7 @@ Este es el diagrama de clases que muestra las principales clases del proyecto y 
 ## Diagrama de Arquitectura
 
 A continuación se presenta el diagrama de arquitectura que describe cómo interactúan los diferentes componentes del sistema:
+
 ![image](https://github.com/alexandrac1420/BonoParcial1/blob/master/Pictures/arquitectura.png)
 
 ### 1. **Cliente (Browser)**:
