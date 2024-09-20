@@ -2,6 +2,7 @@
 
 Este proyecto implementa una calculadora reflexiva que utiliza la clase `Math` de Java mediante reflexión y un algoritmo de ordenamiento Bubble Sort, todo dentro de un sistema distribuido con arquitectura basada en sockets. El cliente interactúa con la aplicación enviando comandos para realizar cálculos matemáticos o ejecutar el algoritmo de ordenamiento.
 
+![gif](https://github.com/alexandrac1420/BonoParcial1/blob/master/Pictures/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).gif)
 ---
 
 ## Instalación
@@ -87,7 +88,7 @@ Este proyecto implementa una calculadora reflexiva que utiliza la clase `Math` d
 ## Diagrama de Clases
 
 Este es el diagrama de clases que muestra las principales clases del proyecto y sus interacciones:
-![image](https://github.com/user-attachments/assets/03a2baed-2c3b-4ab6-a2d0-275c31894f9d)
+![image](https://github.com/alexandrac1420/BonoParcial1/blob/master/Pictures/diagramaClases.png)
 
 ### 1. **CalcReflexBEServer**
    - Es el servidor backend que maneja los cálculos y la lógica de ordenamiento **Bubble Sort**.
@@ -111,7 +112,7 @@ Este es el diagrama de clases que muestra las principales clases del proyecto y 
 ## Diagrama de Arquitectura
 
 A continuación se presenta el diagrama de arquitectura que describe cómo interactúan los diferentes componentes del sistema:
-![image](https://github.com/user-attachments/assets/03a2baed-2c3b-4ab6-a2d0-275c31894f9d)
+![image](https://github.com/alexandrac1420/BonoParcial1/blob/master/Pictures/arquitectura.png)
 
 ### 1. **Cliente (Browser)**:
    - El cliente utiliza una interfaz HTML y JavaScript para enviar comandos al servidor a través de **Sockets**.
